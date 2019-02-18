@@ -9,6 +9,7 @@
     >
       <div class="card bg-danger" style="width: 18rem; border: 1px solid black">
         <div class="card-header text-white">
+          
           <strong>{{project.nome}}</strong>
           <button
             type="button"
